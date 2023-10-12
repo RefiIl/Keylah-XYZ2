@@ -12,7 +12,7 @@ body::-webkit-scrollbar {
  
 }
 body::-webkit-scrollbar-thumb {
-    background: #9b17ff; 
+    background: #ffffff; 
     border-radius: 5px; 
 
 }
@@ -22,7 +22,7 @@ body{
     overflow-x: hidden ;
     box-sizing: border-box;
     font-size: 1.6em;
-    background-color:#0c0c0c;
+    background-color:#ffffff;
 
 }
 #header{
@@ -55,7 +55,7 @@ body{
     display: block;
     height: max-content;
     color: #ffffff;
-    background-color: #9b17ff;
+    background-color: #ffffff;
     font-family: Poppins;
     font-size:  19px;
     font-weight:500;
@@ -100,7 +100,7 @@ li a {
 }
 
 li a:hover {
-    color: #9b17ff;
+    color: #030000;
 }
 #active{
     display:none
