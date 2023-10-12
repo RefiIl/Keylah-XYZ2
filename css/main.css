@@ -161,7 +161,7 @@ li a:hover {
     display: block;
     height: max-content;
     color: #ffffff;
-    background-color: #9b17ff;
+    background-color: #ffffff;
     font-family: Poppins;
     font-size:  16px;
     font-weight:500;
@@ -220,7 +220,7 @@ li a:hover {
 .plan{
     width: 18vw;
     height: 27vw;
-    background-color: #171717;
+    background-color: #ffffff;
     margin: 0px 35px 35px 0px;
     border-radius: 15px;
     padding: 10px;
@@ -232,7 +232,7 @@ li a:hover {
 .feature{
     width: 18vw;
     height:10vw;
-    background-color: #171717;
+    background-color: #ffffff;
     margin: 0px 20px 20px 0px;
     border-radius: 15px;
     padding: 10px;
@@ -268,7 +268,7 @@ li a:hover {
 }
 .plan_price p{
     display: inline;
-    color: #9b17ff;
+    color: #ffffff;
     font-family: Poppins;
     font-size:  18px;
     font-weight:500;
